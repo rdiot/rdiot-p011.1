@@ -1,0 +1,7 @@
+AT+CPMS="SM","SM","SM"
+AT+CMGW="01012345678"<CR>(TEXT MODE)
+hi there. This is test for SMS.
+Crtl+Z
+
+AT+CMSS=3
+AT+CMSS=4
